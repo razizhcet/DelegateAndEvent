@@ -1,0 +1,12 @@
+E:\BizRun.NET\c#.net-programs\DelegatesAndEvents\TestCaseClass\bin\Debug\TestCaseClass.dll
+E:\BizRun.NET\c#.net-programs\DelegatesAndEvents\TestCaseClass\bin\Debug\TestCaseClass.pdb
+E:\BizRun.NET\c#.net-programs\DelegatesAndEvents\TestCaseClass\bin\Debug\DelegatesAndEvents.exe
+E:\BizRun.NET\c#.net-programs\DelegatesAndEvents\TestCaseClass\bin\Debug\nunit.framework.dll
+E:\BizRun.NET\c#.net-programs\DelegatesAndEvents\TestCaseClass\bin\Debug\log4net.dll
+E:\BizRun.NET\c#.net-programs\DelegatesAndEvents\TestCaseClass\bin\Debug\DelegatesAndEvents.pdb
+E:\BizRun.NET\c#.net-programs\DelegatesAndEvents\TestCaseClass\bin\Debug\DelegatesAndEvents.xml
+E:\BizRun.NET\c#.net-programs\DelegatesAndEvents\TestCaseClass\bin\Debug\nunit.framework.xml
+E:\BizRun.NET\c#.net-programs\DelegatesAndEvents\TestCaseClass\bin\Debug\log4net.xml
+E:\BizRun.NET\c#.net-programs\DelegatesAndEvents\TestCaseClass\obj\Debug\TestCaseClass.csprojResolveAssemblyReference.cache
+E:\BizRun.NET\c#.net-programs\DelegatesAndEvents\TestCaseClass\obj\Debug\TestCaseClass.dll
+E:\BizRun.NET\c#.net-programs\DelegatesAndEvents\TestCaseClass\obj\Debug\TestCaseClass.pdb

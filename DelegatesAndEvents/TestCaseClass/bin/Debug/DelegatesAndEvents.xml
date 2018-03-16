@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DelegatesAndEvents</name>
+    </assembly>
+    <members>
+        <member name="T:DelegatesAndEvents.DelegateClass">
+            <summary>
+            class describing methods which will be refferes through delegate
+            </summary>
+        </member>
+        <member name="F:DelegatesAndEvents.DelegateClass.num">
+            <summary>
+            num is a static int value is 100
+            </summary>
+        </member>
+        <member name="M:DelegatesAndEvents.DelegateClass.add(System.Int32)">
+            <summary>
+            method to add a given value to num
+            </summary>
+            <param name="n">n is int type parameter.</param>
+            <returns>return type is int</returns>
+        </member>
+        <member name="M:DelegatesAndEvents.DelegateClass.multiply(System.Int32)">
+            <summary>
+            method to multiply a given value to num
+            </summary>
+            <param name="n">n is int type parameter.</param>
+            <returns>return type is int</returns>
+        </member>
+        <member name="M:DelegatesAndEvents.DelegateClass.getNum">
+            <summary>
+            method to find the result of add and multiply method
+            </summary>
+            <returns>return type is int</returns>
+        </member>
+        <member name="T:DelegatesAndEvents.calculator">
+            <summary>
+            delegate to refer add and multiply functions.
+            </summary>
+            <param name="n">parameter n is int type.</param>
+            <returns>return type is int</returns>
+        </member>
+        <member name="T:DelegatesAndEvents.DelegateExample">
+            <summary>
+            class for instantiating the delegate and refering the functions through delegate
+            </summary>
+        </member>
+        <member name="F:DelegatesAndEvents.DelegateExample.log">
+            <summary>
+            statement for using functions of log4net
+            </summary>
+        </member>
+        <member name="M:DelegatesAndEvents.DelegateExample.Main(System.String[])">
+            <summary>
+            main method for rference of methods through delegates
+            </summary>
+            <param name="args">string array type parameter.</param>
+            <returns>return type is void.</returns>
+        </member>
+        <member name="T:DelegatesAndEvents.Transformer">
+            <summary>
+            delegate to refer add and multiply functions.
+            </summary>
+            <param name="x">parameter x is int type.</param>
+            <returns>return type is int</returns>
+        </member>
+        <member name="T:DelegatesAndEvents.EventWithDelegate">
+            <summary>
+            class describing methods which will be refferes through delegate and event
+            </summary>
+        </member>
+        <member name="F:DelegatesAndEvents.EventWithDelegate.log">
+            <summary>
+            statement for using functions of log4net
+            </summary>
+        </member>
+        <member name="M:DelegatesAndEvents.EventWithDelegate.Square(System.Int32)">
+            <summary>
+            method to square a given int type value
+            </summary>
+            <param name="x">x is int type parameter.</param>
+            <returns>return type is void</returns>
+        </member>
+        <member name="M:DelegatesAndEvents.EventWithDelegate.Cuber(System.Int32)">
+            <summary>
+            method to cube a given int type value
+            </summary>
+            <param name="x">x is int type parameter.</param>
+            <returns>return type is void</returns>
+        </member>
+        <member name="M:DelegatesAndEvents.EventWithDelegate.Main(System.String[])">
+            <summary>
+            main method for rference of methods through delegate and using event
+            </summary>
+            <param name="args">string array type parameter.</param>
+            <returns>return type is void.</returns>
+        </member>
+        <member name="T:DelegatesAndEvents.NotificationMethods">
+            <summary>
+            class describing methods to notify users
+            </summary>
+        </member>
+        <member name="F:DelegatesAndEvents.NotificationMethods.log">
+            <summary>
+            statement for using functions of log4net
+            </summary>
+        </member>
+        <member name="E:DelegatesAndEvents.NotificationMethods.transformerEvent">
+            <summary>
+            event to to notify diffrent users at same time.
+            </summary>
+            <returns>return type is delegate type</returns>
+        </member>
+        <member name="M:DelegatesAndEvents.NotificationMethods.NotifyOnCell(System.Int32)">
+            <summary>
+            method to notify users
+            </summary>
+            <param name="x">x is int type parameter.</param>
+            <returns>return type is void</returns>
+        </member>
+        <member name="T:DelegatesAndEvents.User1">
+            <summary>
+            class to send a notification to user1
+            </summary>
+        </member>
+        <member name="F:DelegatesAndEvents.User1.log">
+            <summary>
+            statement for using functions of log4net
+            </summary>
+        </member>
+        <member name="M:DelegatesAndEvents.User1.Xhandler(System.Int32)">
+            <summary>
+            method to send notification to user
+            </summary>
+            <param name="x">x is int type parameter.</param>
+            <returns>return type is void</returns>
+        </member>
+        <member name="T:DelegatesAndEvents.User2">
+            <summary>
+            class to send a notification to user2
+            </summary>
+        </member>
+        <member name="F:DelegatesAndEvents.User2.log">
+            <summary>
+            statement for using functions of log4net
+            </summary>
+        </member>
+        <member name="M:DelegatesAndEvents.User2.Yhandler(System.Int32)">
+            <summary>
+            method to send notification to user
+            </summary>
+            <param name="x">x is int type parameter.</param>
+            <returns>return type is void</returns>
+        </member>
+        <member name="T:DelegatesAndEvents.Delegates">
+            <summary>
+            class describing methods which will be refferes through delegate
+            </summary>
+        </member>
+        <member name="M:DelegatesAndEvents.Delegates.add(System.Int32,System.Int32)">
+            <summary>
+            method to add a given value to num
+            </summary>
+            <param name="a">a is int type parameter.</param>
+            <param name="b">b is int type parameter.</param>
+        </member>
+    </members>
+</doc>

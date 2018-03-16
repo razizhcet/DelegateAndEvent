@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1007]E:\BizRun.NET\c#.net-programs\DelegatesAndEvents\TestCaseClass\bin\Debug\TestCaseClass.dll</TopNode>
+  <SelectedNode>[0-1001]TestCaseClass.Class1.Test1</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1007]E:\BizRun.NET\c#.net-programs\DelegatesAndEvents\TestCaseClass\bin\Debug\TestCaseClass.dll" Expanded="true" />
+    <Node UniqueName="[0-1008]TestCaseClass" Expanded="true" />
+    <Node UniqueName="[0-1000]TestCaseClass.Class1" Expanded="true" />
+    <Node UniqueName="[0-1002]TestCaseClass.Class2" Expanded="true" />
+    <Node UniqueName="[0-1004]TestCaseClass.Class3" Expanded="true" />
+  </Nodes>
+</VisualState>

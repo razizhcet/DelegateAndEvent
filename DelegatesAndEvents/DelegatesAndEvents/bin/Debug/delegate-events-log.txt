@@ -1,0 +1,7 @@
+2018-03-16 15:11:41,031 [8] INFO DelegatesAndEvents.DelegateClass - After c1 delegate, Number is: 120
+2018-03-16 15:11:41,060 [8] INFO DelegatesAndEvents.DelegateClass - After c2 delegate, Number is: 360
+2018-03-16 19:04:03,315 [9] INFO DelegatesAndEvents.EventWithDelegate - square is : 16
+2018-03-16 19:13:24,935 [9] INFO DelegatesAndEvents.EventWithDelegate - square is : 25
+2018-03-16 19:13:24,959 [9] INFO DelegatesAndEvents.EventWithDelegate - cube is : 125
+2018-03-16 19:13:24,983 [9] INFO DelegatesAndEvents.User1 - User1 notification received
+2018-03-16 19:13:24,984 [9] INFO DelegatesAndEvents.User2 - User2 notification received
